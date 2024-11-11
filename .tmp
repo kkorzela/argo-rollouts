@@ -1,0 +1,3 @@
+oc login -u admin  https://api.cluster-cmrpx.cmrpx.sandbox640.opentlc.com:6443 -p MzM0NTYx
+
+
